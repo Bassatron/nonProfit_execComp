@@ -10,7 +10,7 @@ I manually scraped executive compensation and revenue data from organization's I
 
 ## Results
 First, I wanted to know whether the relationship between executive compensation and total expenses in each sector was comparable. I found that the relationship between compensation and expenses to be incredibly similar between sectors. Note that the scale on the y-axis for for-profit organizations is orders of magnitude larger than non-profits, but that is to be expected.
-![Compensation vs Total Expenses](https://github.com/Bassatron/nonProfit_execComp/blob/master/figures/comp_expenses.png?raw=true)
+![Compensation vs Total Expenses](https://github.com/Bassatron/nonProfit_execComp/blob/master/figures/comp_expense.png?raw=true)
 
 I followed this up by looking at trends over time to see if executive compensation was trending towards one another. Non-profit executive compensation as a percentage of total expenses was actually greater than for-profit executive compensation and was decreasing towards the for-profit baseline.
 ![Compensation vs Time](https://github.com/Bassatron/nonProfit_execComp/blob/master/figures/comp_time.png?raw=true)
